@@ -39,10 +39,8 @@ The model is evaluated on the test set using the following metrics:
 The classification report is as follows:
 
           precision    recall  f1-score   support
-
 negative       0.90      0.89      0.89      7411
 positive       0.89      0.91      0.90      7589
-
 accuracy                           0.90     15000
 macro avg      0.90      0.90      0.90     15000
 weighted avg   0.90      0.90      0.90     15000
